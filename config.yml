@@ -1,0 +1,17 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Vinhomeu
+
+copyright: Everything is mine
+defaultContentLanguage: en
+languages:
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 1
+  de:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 2
