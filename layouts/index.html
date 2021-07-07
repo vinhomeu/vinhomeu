@@ -11,11 +11,13 @@
         {{.Content}}
       </div>
 
+      <div class="wine-list">
       {{ range where .Site.Pages "Params.featured" true}}
         {{if eq .Type "wines" }}
           {{ .Title }}
           {{ .Content }}
         {{ end }}
       {{ end }}
+    </div>
     </main>
 {{ end }}
