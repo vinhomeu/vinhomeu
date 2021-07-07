@@ -11,13 +11,20 @@
         {{.Content}}
       </div>
 
-      <div class="wine-list">
+      <div class="homepage-wines">
       {{ range where .Site.Pages "Params.featured" true}}
         {{if eq .Type "wines" }}
-          {{ .Title }}
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Params.year }}</p>
+          <p>{{ .Params.recommendation }}</p>
           {{ .Content }}
         {{ end }}
       {{ end }}
     </div>
+
     </main>
 {{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{end}}

@@ -1,17 +1,28 @@
-baseURL: http://example.org/
+baseURL: https://www.vinhomeu.com/
 languageCode: en-us
 title: Vinhomeu
+sectionPagesMenu: main
 
-copyright: Everything is mine
+
+
+
 defaultContentLanguage: en
 languages:
   en:
-    params:
-      linkedin: https://linkedin.com/whoever
-    title: My blog
+    menu:
+      main:
+      - identifier: about
+        name: About
+        url: /about/
+        weight: -110
+    title: Vinhomeu
     weight: 1
   de:
-    params:
-      linkedin: https://linkedin.com/whoever
-    title: My blog
+    menu:
+      main:
+      - identifier: about
+        name: Über
+        url: /de/about/
+        weight: -110
+    title: Vinhomeu
     weight: 2

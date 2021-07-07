@@ -1,0 +1,15 @@
+<nav>
+    <ul>
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main -}}
+        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{- end }}
+        <li class="language-selector">
+            <a href="/en" id="en-us">EN</a> /
+            <a href="/de" id="de-de">DE</a>
+        </li>
+    </ul>
+
+</nav>
