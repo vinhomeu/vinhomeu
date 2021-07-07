@@ -1,3 +1,10 @@
-body{
-    // font-size: 16px;
+:root{
+    --primary-color: #0005FF;
+    --secondary-color: #FF0000;
+    --tertiary-color: #F8CABF;
 }
+
+@import './reset.scss';
+@import './typography.scss';
+@import './footer.scss';
+

@@ -1,0 +1,21 @@
+
+body {
+    font-family: "Quando", serif;
+    font-size: clamp(100%, 2vw, 20px);
+    line-height: 1em;
+    line-height: 1.25;
+    // background-color: var(--tertiary-color);
+}
+
+p{
+    line-height: 1.25;
+}
+
+h1{
+    font-family: "ZCOOL KuaiLe", cursive;
+    font-size: 5em;
+    line-height: 0.6em;
+    .primary{
+        color: var(--primary-color);
+    }
+}
