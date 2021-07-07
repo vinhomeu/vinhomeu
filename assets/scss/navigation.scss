@@ -1,0 +1,15 @@
+.navigation{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    ul{
+        display: flex;
+        li{
+            margin: 0.5em;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
+}

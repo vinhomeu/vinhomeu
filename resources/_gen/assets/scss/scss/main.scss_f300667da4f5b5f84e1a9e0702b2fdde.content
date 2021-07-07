@@ -51,11 +51,37 @@ p {
 
 h1 {
   font-family: "ZCOOL KuaiLe", cursive;
-  font-size: 5em;
-  line-height: 0.6em; }
+  font-size: 4.5em;
+  line-height: 0.65em; }
   h1 .primary {
     color: var(--primary-color); }
 
 footer {
   background-image: url("/images/footer-bg.jpg");
   background-size: cover; }
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%; }
+  .navigation ul {
+    display: flex; }
+    .navigation ul li {
+      margin: 0.5em; }
+    .navigation ul a {
+      text-decoration: none; }
+
+.homepage-content {
+  background-image: url("/images/header-bg.png");
+  background-size: cover;
+  padding: 5em 0; }
+  .homepage-content h1 {
+    color: var(--primary-color);
+    text-align: center;
+    max-width: 750px;
+    margin: auto; }
+
+a, a:hover, a:visited {
+  cursor: pointer;
+  color: #222222; }

@@ -7,4 +7,10 @@
 @import './reset.scss';
 @import './typography.scss';
 @import './footer.scss';
+@import './navigation.scss';
+@import './home.scss';
 
+a, a:hover, a:visited{
+    cursor: pointer;
+    color: #222222;
+}
