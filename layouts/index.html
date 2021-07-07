@@ -10,10 +10,12 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-      <div>
-        {{ range first 10 .Site.RegularPages }}
-            {{ .Render "summary"}}
+
+      {{ range where .Site.Pages "Params.featured" true}}
+        {{if eq .Type "wines" }}
+          {{ .Title }}
+          {{ .Content }}
         {{ end }}
-      </div>
+      {{ end }}
     </main>
 {{ end }}
