@@ -1,9 +1,11 @@
+# Vinhomeu
+Static generation website using Hugo
 
-### Theme
-Paper
-https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+## Updating content
+All the website content exists inside of the content folder.
+You can modify these files and then save them and the website will be automatically build and deployed
 
-git submodule update --remote --merge
+## Development
+In order to develop the website you should use.
+`hugo server -d`
 
-## Create new
-hugo new --kind <type> <NAME>
