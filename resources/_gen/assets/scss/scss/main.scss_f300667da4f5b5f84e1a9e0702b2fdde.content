@@ -65,6 +65,8 @@ footer {
   justify-content: center;
   position: absolute;
   width: 100%; }
+  .navigation .language-selector {
+    color: var(--tertiary-color); }
   .navigation ul {
     display: flex; }
     .navigation ul li {
@@ -84,4 +86,4 @@ footer {
 
 a, a:hover, a:visited {
   cursor: pointer;
-  color: #222222; }
+  color: var(--tertiary-color); }

@@ -3,6 +3,10 @@
     justify-content: center;
     position: absolute;
     width: 100%;
+    .language-selector{
+        color: var(--tertiary-color);
+    }
+    
     ul{
         display: flex;
         li{
