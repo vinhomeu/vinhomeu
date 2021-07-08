@@ -4,11 +4,13 @@ date: 2021-07-04T14:29:50+02:00
 draft: false
 ---
 
-...I paid too much money for a disappointing wine at a wine shop. I miss the ease of being able to grab a bottle of wine and know that it will not be disappointing. In Portugal this is practically common sense, but I am not in Portugal anymore. 
+I paid too much money for a disappointing wine at a wine shop. I miss the ease of being able to grab a bottle of wine and know that it will not be disappointing. In Portugal this is practically common sense, but I am not in Portugal anymore. 
 
-Berlin has great wine shops, but I want to make this even easier. So I started Vinho Meu, where I will be curating and showcasing a handful of great portuguese wines, no more, no less, just enough. 
+Berlin has great wine shops, but I want to make this even easier. So I started Vinhomeu, where I will be curating and showcasing a handful of great portuguese wines, no more, no less, just enough. 
 
-Life’s too short for sh°t wine and I am here to help you with that.  
+Life’s too short for sh°t wine and I am here to help you with that. 
+
+ <!--more-->
 
 I was born in a wine country. Wine is part of our daily life, there is at least one glass of it present at every meal (back in the days even at breakfast). The supermarket is filled with reds, whites, rosés and verdes. Wine is omnipresent, it’s a common place, absolutely normal. My grandparents had grapes and made wine, just for the simple fact that it was cheaper to do so and you could also make some money with it, by either selling the grapes or the final product (and also from working for others during harvest). It was something done out of need, a normal part of life in Portugal's rural areas. Because of these humble origins, my take on wine has always been very simple: full bodied and velvety, I cannot come up with flavours, but only think of grapes that got the right amount of sun, the right amount of rain and were properly looked after.
 

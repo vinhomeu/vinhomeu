@@ -1,2 +1,2 @@
 
-# Vinhomeu is dedicated to showcasing distinct and memorable Portuguese wines that tell the story of time and place with each sip.
+# Vinhomeu hat es sich zum Ziel gesetzt, unverwechselbare und unvergessliche portugiesische Weine zu prasentieren, die mit jedem Schluck die Geschichte von Zeit und Ort erzahlen.

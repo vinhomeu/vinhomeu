@@ -392,7 +392,6 @@ h1 {
   font-style: italic; }
 
 .footer {
-  margin-top: -1em;
   background-image: url("/images/footer-bg.jpg");
   background-size: cover;
   background-position: center; }
@@ -486,6 +485,41 @@ h1 {
     .homepage__wines-content__spacing {
       max-width: 550px; }
 
+.homepage__about {
+  background-color: var(--tertiary-color);
+  color: var(--secondary-color);
+  display: flex;
+  flex-direction: row;
+  padding-top: 6em;
+  position: relative;
+  text-align: center; }
+  @media only screen and (max-device-width: 480px) {
+    .homepage__about {
+      flex-direction: column; } }
+  .homepage__about__light {
+    max-width: 60px; }
+  .homepage__about__content {
+    flex: 2;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 3em;
+    z-index: 2; }
+  .homepage__about__content > div {
+    max-width: 450px; }
+  .homepage__about__img-container {
+    flex: 1.5;
+    z-index: 2;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center; }
+  .homepage__about__img {
+    object-fit: contain;
+    width: 100%; }
+  @media only screen and (max-device-width: 480px) {
+    .homepage__about__img {
+      width: 50%; } }
 a, a:hover, a:visited {
   cursor: pointer;
   color: var(--tertiary-color); }

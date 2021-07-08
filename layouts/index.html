@@ -34,6 +34,22 @@
       {{ end }}
     </div>
 
+    <section class="homepage__about">
+      {{ with .Site.GetPage "page" "about" }}
+      <div class="homepage__about__content mb-4">
+        <div>
+          <img class="homepage__about__light" src="/images/light-bulb.png" alt="light-bulb" />
+          <h1 class="mb-2">{{ .Title}}</h1>
+          {{.Summary}}
+        </div>
+      </div>
+      <div class="homepage__about__img-container">
+        <img class="homepage__about__img" src="/images/andre.png" alt="Andre" />
+      </div>
+      {{ end }}
+    </section>
+    
+
     </main>
 {{ end }}
 
