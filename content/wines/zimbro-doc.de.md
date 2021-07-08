@@ -2,7 +2,7 @@
 date: 2021-07-04T14:29:50+02:00
 draft: false
 
-title: "Zimbro DOC"
+title: "Zimbro"
 year: 2015
 percent: "14.5%"
 recommendation: "Drink at 16-18°C"
