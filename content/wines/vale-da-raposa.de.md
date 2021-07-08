@@ -6,7 +6,7 @@ title: "Vale da Raposa"
 year: 2018
 percent: "13%"
 recommendation: ""
-variety: "White"
+variety: "Weiss"
 featured: true
 ---
 

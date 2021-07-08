@@ -6,6 +6,7 @@ title: "Convento da Vila Colheita DOC"
 year: 2017
 percent: "13.5%"
 recommendation: "Drink at 15-17°C"
+variety: Red
 featured: true
 ---
 

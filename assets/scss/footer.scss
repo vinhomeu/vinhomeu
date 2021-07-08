@@ -1,4 +1,39 @@
-footer{
-    background-image: url('/images/footer-bg.jpg');
+.footer {
+    margin-top: -1em;
+    background-image: url("/images/footer-bg.jpg");
     background-size: cover;
-}
+    background-position: center;
+  }
+  
+  .footer-nav {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10em 3em;
+    z-index: 2;
+    text-align: center;
+  }
+  
+  .footer h1 {
+    a {
+      color: var(--secondary-color);
+      text-decoration: none;
+    }
+  
+    color: var(--secondary-color);
+  }
+  
+  .footer-notes {
+    padding: 1em 2em;
+  
+    p {
+      text-align: center;
+      font-size: 0.75em;
+      color: var(--tertiary-color);
+    }
+  
+    a {
+      color: var(--tertiary-color);
+    }
+  }

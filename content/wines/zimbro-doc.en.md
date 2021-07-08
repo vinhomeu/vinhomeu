@@ -6,6 +6,7 @@ title: "Zimbro DOC"
 year: 2015
 percent: "14.5%"
 recommendation: "Drink at 16-18°C"
+variety: Red
 featured: true
 ---
 

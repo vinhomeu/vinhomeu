@@ -368,7 +368,7 @@ table {
 
 body {
   font-family: "Quando", serif;
-  font-size: clamp(100%, 2vw, 20px);
+  font-size: clamp(80%, 2vw, 18px);
   line-height: 1em;
   line-height: 1.25; }
 
@@ -391,9 +391,35 @@ h1 {
 .italic {
   font-style: italic; }
 
-footer {
+.footer {
+  margin-top: -1em;
   background-image: url("/images/footer-bg.jpg");
-  background-size: cover; }
+  background-size: cover;
+  background-position: center; }
+
+.footer-nav {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 10em 3em;
+  z-index: 2;
+  text-align: center; }
+
+.footer h1 {
+  color: var(--secondary-color); }
+  .footer h1 a {
+    color: var(--secondary-color);
+    text-decoration: none; }
+
+.footer-notes {
+  padding: 1em 2em; }
+  .footer-notes p {
+    text-align: center;
+    font-size: 0.75em;
+    color: var(--tertiary-color); }
+  .footer-notes a {
+    color: var(--tertiary-color); }
 
 .navigation {
   display: flex;
@@ -417,7 +443,7 @@ footer {
   .homepage__content h1 {
     color: var(--primary-color);
     text-align: center;
-    max-width: 700px;
+    max-width: 550px;
     margin: auto; }
 
 .homepage__wines {
@@ -426,15 +452,32 @@ footer {
     display: grid;
     grid-template-columns: 1fr 2fr;
     background-size: cover;
+    background-position: center;
     padding: 3em 0; }
     .homepage__wines-wine.reverse {
       grid-auto-flow: dense;
       direction: rtl; }
+      .homepage__wines-wine.reverse .homepage__wines-features {
+        border-color: var(--secondary-color); }
+      @media only screen and (max-device-width: 480px) {
+        .homepage__wines-wine.reverse .homepage__wines-image img {
+          width: 150%;
+          margin-right: 0em;
+          margin-left: 4em; } }
   .homepage__wines-image {
     justify-content: center;
-    display: flex; }
+    align-items: center;
+    display: flex;
+    overflow: hidden; }
     .homepage__wines-image img {
       width: 50%; }
+    @media only screen and (max-device-width: 480px) {
+      .homepage__wines-image img {
+        width: 150%;
+        margin-right: 4em; } }
+  .homepage__wines-features {
+    border-left: solid 1em var(--primary-color);
+    padding-left: 0.5em; }
   .homepage__wines-content {
     justify-content: center;
     display: flex;

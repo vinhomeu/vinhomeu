@@ -1,4 +1,40 @@
-  <footer class="footer">
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absURL }}">{{ .Site.Title }}</a></span>
-    <span>&middot;</span>
-  </footer>
+<footer class="footer">
+  <div class="footer-nav">
+    <h1>
+      <a
+        href="mailto:vinhomeuvinho@gmail.com"
+        target="_blank"
+        >{{ i18n "enquires" }}</a
+      ><br />
+      <a
+        href="https://www.instagram.com/vinhomeuvinho/"
+        target="_blank"
+        >Instagram</a
+      >
+    </h1>
+  </div>
+  <div class="flex footer-notes">
+    <div>
+      <p>
+        <i>Body Font: </i
+        ><a href="https://fonts.google.com/specimen/Quando">Quando</a><br /><i
+          >Typographer: </i
+        ><a href="https://novatypefoundry.com/about/">Joana Correia</a> | Porto,
+        Portugal
+      </p>
+    </div>
+    <div>
+      <p>
+        <i>Image: </i
+        ><a href="https://en.wikipedia.org/wiki/Douro_DOC"
+          >Alto Douro Wine Region</a
+        >
+      </p>
+    </div>
+    <div>
+      <p>
+        All rights reserved<br />© Copyright {{ now.Year }}, {{ .Site.Title }}
+      </p>
+    </div>
+  </div>
+</footer>

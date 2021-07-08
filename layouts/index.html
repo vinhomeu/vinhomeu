@@ -19,11 +19,12 @@
             <img src="/images/wine-1.png" alt="{{ .Title }}"/>
           </div>
           <div class="homepage__wines-content">
-            <div class="homepage__wines-content__spacing m-2">
+            <div class="homepage__wines-content__spacing m-3">
               <h1 class="mb-1">{{ .Title }}</h1>
-              <div class="mb-1 italic">
+              <div class="mb-1 italic homepage__wines-features">
                 {{if .Params.year}}<p>{{ i18n "year" }}: {{ .Params.year }}</p>{{end}}
                 {{if .Params.recommendation}}<p>{{ i18n "recommendation" }}: {{ .Params.recommendation }}</p>{{end}}
+                {{if .Params.variety}}<p>{{ i18n "variety" }}: {{ .Params.variety }}</p>{{end}}
               </div>
               {{ .Content }}
             </div>
