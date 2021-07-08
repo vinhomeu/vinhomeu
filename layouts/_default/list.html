@@ -1,8 +1,17 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
 {{ define "main" }}
-  {{ range .Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
-    </article>
+{{ range .Pages }}
+  
+  <div class="list">
+    <a href="{{ .Permalink }}">
+    <div class="list__header" style="background-image: url({{.Params.image}})">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </a>
+  </div>
+
   {{ end }}
 {{ end }}

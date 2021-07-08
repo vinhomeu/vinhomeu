@@ -8,6 +8,8 @@ percent: "13%"
 recommendation: ""
 variety: "White"
 featured: true
+image: "/images/wine-1.png"
+
 ---
 
 This was one of the first Douro white wines produced by the Alves de Sousa family, who started to turn their attention to the local grapes to produce outstanding wines. Vale da Raposa’s Goveio and Malvasia Fina are a great combination and a good example of the underground character of portuguese white wine grape varieties and the unique, pungent taste that only the climate of the Douro Valley can give to their grapes.

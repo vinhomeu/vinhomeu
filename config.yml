@@ -1,10 +1,6 @@
 baseURL: https://www.vinhomeu.com/
-languageCode: en-us
+languageCode: en
 title: Vinhomeu
-sectionPagesMenu: main
-
-
-
 
 defaultContentLanguage: en
 languages:
@@ -15,8 +11,13 @@ languages:
         name: About
         url: /about/
         weight: -110
-    title: Vinhomeu
+      - identifier: varities
+        name: Varieties
+        url: /varieties/
+        weight: -120
+    title: About | Vinhomeu
     weight: 1
+
   de:
     menu:
       main:
@@ -24,5 +25,9 @@ languages:
         name: Über
         url: /de/about/
         weight: -110
+      - identifier: varities
+        name: Weinsorten
+        url: /weinsorten/
+        weight: -120
     title: Vinhomeu
     weight: 2
