@@ -438,7 +438,8 @@ footer {
   .homepage__wines-content {
     justify-content: center;
     display: flex;
-    align-items: center; }
+    align-items: center;
+    direction: ltr; }
     .homepage__wines-content__spacing {
       max-width: 550px; }
 
