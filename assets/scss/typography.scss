@@ -1,21 +1,48 @@
+@mixin fluid-type(
+  $min-font-size: 12px,
+  $max-font-size: 21px,
+  $lower-range: 420px,
+  $upper-range: 900px
+) {
+  font-size: calc(
+    #{$min-font-size} + #{(
+        ($max-font-size / ($max-font-size * 0 + 1)) -
+          ($min-font-size / ($min-font-size * 0 + 1))
+      )} * ((100vw - #{$lower-range}) / #{(
+            ($upper-range / ($upper-range * 0 + 1)) -
+              ($lower-range / ($lower-range * 0 + 1))
+          )})
+  );
+
+  @media screen and (max-width: $lower-range) {
+    font-size: $min-font-size;
+  }
+  @media screen and (min-width: $upper-range) {
+    font-size: $max-font-size;
+  }
+}
 
 body {
-    font-family: "Quando", serif;
-    font-size: clamp(100%, 2vw, 20px);
-    line-height: 1em;
-    line-height: 1.25;
-    // background-color: var(--tertiary-color);
+  font-family: "Quando", serif;
+  font-size: clamp(100%, 2vw, 20px);
+  line-height: 1em;
+  line-height: 1.25;
+  // background-color: var(--tertiary-color);
 }
 
-p{
-    line-height: 1.25;
+p {
+  line-height: 1.25;
 }
 
-h1{
-    font-family: "ZCOOL KuaiLe", cursive;
-    font-size: 4.5em;
-    line-height: 0.65em;
-    .primary{
-        color: var(--primary-color);
-    }
+h1 {
+  font-family: "ZCOOL KuaiLe", cursive;
+  @include fluid-type(3.5em, 4.5em);
+  line-height: 0.70em;
+  .primary {
+    color: var(--primary-color);
+  }
+}
+
+.italic{
+    font-style: italic;
 }
