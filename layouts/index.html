@@ -16,7 +16,7 @@
         {{if eq .Type "wines" }}
         <div class="homepage__wines-wine {{if not (modBool $index 2)}}reverse{{end}}" style="background-image: url(/images/wine-bg-{{ $index }}.png)">
           <div class="homepage__wines-image">
-            <img src="/images/wine-1.png" alt="{{ .Title }}"/>
+            <img src="{{ .Params.image }}" alt="{{ .Title }}"/>
           </div>
           <div class="homepage__wines-content">
             <div class="homepage__wines-content__spacing m-3">
