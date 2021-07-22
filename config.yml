@@ -27,7 +27,7 @@ languages:
         weight: -110
       - identifier: varities
         name: Weinsorten
-        url: /weinsorten/
+        url: /de/varieties/
         weight: -120
     title: Vinhomeu
     weight: 2

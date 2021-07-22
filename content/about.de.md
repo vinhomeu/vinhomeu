@@ -1,29 +1,29 @@
 ---
-title: "And one day…"
+title: "Und eines Tages…"
 date: 2021-07-04T14:29:50+02:00
 draft: false
 image: "/images/andre.png"
 imageSingle: "/images/about-bg.jpg"
 ---
 
-I paid too much money for a disappointing wine at a wine shop. I miss the ease of being able to grab a bottle of wine and know that it will not be disappointing. In Portugal this is practically common sense, but I am not in Portugal anymore. 
+Ich habe zu viel Geld für einen enttäuschenden Wein in einem Weinladen bezahlt. Ich vermisse die Leichtigkeit, eine Flasche Wein zu greifen und weiß, dass es nicht enttäuschend sein wird. In Portugal ist das praktisch der gesunde Menschenverstand, aber ich bin nicht mehr in Portugal.
 
-Berlin has great wine shops, but I want to make this even easier. So I started Vinho Meu, where I will be curating and showcasing a handful of great portuguese wines, no more, no less, just enough. 
+Berlin hat tolle Weinläden, aber das möchte ich noch einfacher machen. Also habe ich Vinho Meu gegründet, wo ich eine Handvoll großartiger portugiesischer Weine kuratieren und präsentieren werde, nicht mehr und nicht weniger, gerade genug.
 
-Life’s too short for sh°t wine and I am here to help you with that.  
+Das Leben ist zu kurz für sh°t Wein und ich bin hier, um Ihnen dabei zu helfen.
 
  <!--more-->
 
-I was born in a wine country. Wine is part of our daily life, there is at least one glass of it present at every meal (back in the days even at breakfast). The supermarket is filled with reds, whites, rosés and verdes. 
+Ich wurde in einem Weinland geboren. Wein gehört zu unserem täglichen Leben, zu jeder Mahlzeit (früher sogar beim Frühstück) ist mindestens ein Glas davon vorhanden. Der Supermarkt ist gefüllt mit Rot-, Weiß-, Rosé- und Verdes.
 
-Wine is omnipresent, it’s a common place, absolutely normal. My grandparents had grapes and made wine, just for the simple fact that it was cheaper to do so and you could also make some money with it, by either selling the grapes or the final product (and also from working for others during harvest). 
+Wein ist allgegenwärtig, ein alltäglicher Ort, absolut normal. Meine Großeltern hatten Trauben und machten Wein, nur weil es billiger war und man damit auch Geld verdienen konnte, entweder durch den Verkauf der Trauben oder das Endprodukt (und auch durch die Arbeit für andere während der Ernte).
 
-It was something done out of need, a normal part of life in Portugal's rural areas. Because of these humble origins, my take on wine has always been very simple: full bodied and velvety, I cannot come up with flavours, but only think of grapes that got the right amount of sun, the right amount of rain and were properly looked after.
+Es war etwas, das aus Not getan wurde, ein normaler Teil des Lebens in Portugals ländlichen Gebieten. Aufgrund dieser bescheidenen Herkunft war meine Einstellung zum Wein immer sehr einfach: Vollmundig und samtig, ich kann keine Aromen finden, sondern denke nur an Trauben, die die richtige Menge Sonne, die richtige Menge Regen bekommen und richtig gepflegt wurden nach dem.
 
-And I have been lucky enough to witness this care first hand. My grandparents always had wine grapes and oak barrels, and my father also got more and more into making wine: testing, trying, using his in-laws’ vineyards, dedicating time and money to make sure the grapes were fertilized enough and the weeds on the ground were eliminated. 
+Und ich hatte das Glück, diese Pflege hautnah miterleben zu können. Meine Großeltern hatten immer Weintrauben und Eichenfässer, und auch mein Vater hat sich immer mehr mit der Weinherstellung beschäftigt: Testen, Ausprobieren, die Weinberge seiner Schwiegereltern nutzen, Zeit und Geld investieren, um sicherzustellen, dass die Trauben genug gedüngt und das Unkraut entfernt ist der Boden wurde beseitigt.
 
-The pure definition of biological agriculture: 1 person and its fruits.
+Die reine Definition der biologischen Landwirtschaft: 1 Person und ihre Früchte.
 
-As the years passed, the size of the vineyard decreased, the expertise grew and wine was maturing alongside, new grapes were introduced, velvety tones and full body pours were coming of age. 
+Im Laufe der Jahre verkleinerte sich der Weinberg, das Know-how wuchs und der Wein reifte mit, neue Trauben wurden eingeführt, samtige Töne und vollmundige Abgüsse wurden erwachsen.
 
-As for me, I stopped complaining about getting up early and then napping under some massive vine bower. Humans and wine alike, we all mature so I started to be more interested in it alongside the whole family. Harvesting the grapes became a second Christmas for us.
+Was mich betrifft, ich hörte auf, mich darüber zu beschweren, dass ich früh aufstand und dann unter einer riesigen Weinlaube ein Nickerchen machte. Menschen und Wein gleichermaßen, wir alle reifen, also habe ich angefangen, mich zusammen mit der ganzen Familie mehr dafür zu interessieren. Die Weinlese wurde für uns zu einem zweiten Weihnachtsfest.

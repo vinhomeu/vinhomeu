@@ -5,10 +5,10 @@ draft: false
 title: "Zimbro"
 year: 2015
 percent: "14.5%"
-recommendation: "Drink at 16-18°C"
+recommendation: "Trinken bei 16-18°C"
 variety: Rot
 featured: true
 image: "/images/wines/zimbro-red.png"
 ---
 
-Douro in it's full power! This thick inky tinto made of the local Touriga Nacional, Tinta Roriz and Touriga Francesa is a great example of this region's exceptional wines. And this family run vineyard is pure winemaker art, that you should definitely about. Enjoy it best with friends and a nice plate of pasta, red meats or your favourite cheese.
+Douro in voller Kraft! Dieser dicke, tintofarbene Tinto aus den lokalen Touriga Nacional, Tinta Roriz und Touriga Francesa gehört laut vivino.com zu den Top 7% der besten Weine der Welt und ist ein großartiges Beispiel für die außergewöhnlichen Weine dieser Region. Dieses familiengeführte Weingut ist reine Winzerkunst, die Sie unbedingt besuchen sollten. Genießen Sie ihn am besten mit Freunden und einem schönen Teller Pasta, rotem Fleisch oder Ihrem Lieblingskäse.

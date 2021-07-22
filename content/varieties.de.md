@@ -1,5 +1,5 @@
 ---
-title: "Varieties"
+title: "Sorten"
 date: 2021-07-04T14:29:50+02:00
 draft: false
 image: "/images/region-portugal-bg.jpg"
@@ -7,38 +7,38 @@ image: "/images/region-portugal-bg.jpg"
 
 # Vinho Verde
  
-Verde stands for green. Yes green, there is a green wine out there and it grows in Minho, a region on the very north of Portugal that rhymes exquisitely with "vinho" and funilly enough it is one of the greenest in the whole country. 
+Verde steht für Grün. Ja grün, es gibt einen grünen Wein und er wächst in Minho, einer Region ganz im Norden Portugals, die sich wunderbar auf "vinho" reimt und lustigerweise eine der grünsten im ganzen Land ist.
 
-No surprise then that this is home to the DOC region of vinho verde grapes that you will find nowhere else in the world. Back in the days, thanks to a glitch in the fermentation process, the wine ended up having more "bubbles" than usual. 
+Kein Wunder also, dass hier die DOC-Region der Vinho Verde-Trauben beheimatet ist, die Sie sonst nirgendwo auf der Welt finden. Früher hatte der Wein dank eines Fehlers im Fermentationsprozess mehr "Blasen" als üblich.
 
-It ends up, that people quite liked that mistake! Yet don't be mistaken: it's not sparkling, it's not prosecco, it's vinho verde and it's best consumed with loved ones, in summer, on ice if you may!
+Es endet damit, dass die Leute diesen Fehler sehr mochten! Aber täuschen Sie sich nicht: Es ist nicht prickelnd, es ist kein Prosecco, es ist Vinho Verde und es wird am besten mit den Lieben konsumiert, im Sommer, wenn Sie dürfen auf Eis!
 
 # Rose
  
-"Cor-de-rosa?" My dad told me that,  once I was so surprised to see a pink wine that I begged him to try it, it seemed so fresh and inviting, I probably thought it would taste like strawberries. 
+"Cor-de-rosa?" Mein Vater sagte mir, dass ich, als ich so überrascht war, einen rosa Wein zu sehen, ihn anflehte, ihn zu probieren, er so frisch und einladend wirkte, dass ich wahrscheinlich dachte, er würde nach Erdbeeren schmecken.
 
-I was 9, and it didn't! 
+Ich war 9, und das war es nicht!
 
-Fast forward into the future and now this is my kind of strawberry lemonade! Rosé is beloved worldwide, it's vibrant colour makes ist relatives "red" and "white" look dull. But that is not the idea! 
+Schneller Vorlauf in die Zukunft und jetzt ist das meine Art von Erdbeerlimonade! Rosé ist weltweit beliebt, seine leuchtende Farbe lässt seine Verwandten "Rot" und "Weiß" matt wirken. Aber das ist nicht die Idee!
 
-While verdes and brancos bring you the citrus, this brings you the tropical flair to your taste buds. Grapes are so much more than just grapes, and wise hand work them well and to ist full potential!
+Während Verdes und Brancos Ihnen die Zitrusfrüchte bringen, bringt Ihnen dies tropisches Flair auf Ihre Geschmacksknospen. Trauben sind so viel mehr als nur Trauben, und weise Handarbeit sie gut und zu ihrem vollen Potenzial!
 
 # Vinho Branco
  
-Sauvi..what? With more than 250 indigenous grapes, Portuguese winemakers prefer to stick to their roots instead of going for the internationally acclaimed and beloved Sauvignons and Chardonnays. 
+Sauvi..was? Mit mehr als 250 autochthonen Trauben bleiben die portugiesischen Winzer lieber bei ihren Wurzeln, statt auf die international gefeierten und beliebten Sauvignons und Chardonnays zu setzen.
 
-No wonder that people are unaware of names like Malvasia Fina,  Alfrocheiro and Trajadura, they are absolute tongue twisters, but taste amazing. 
+Kein Wunder, dass die Leute Namen wie Malvasia Fina, Alfrocheiro und Trajadura nicht kennen, sie sind absolute Zungenbrecher, schmecken aber fantastisch.
 
-While the prickly Vinho Verde is arguably the most famous "white" wine from the north of Portugal, the dry climate with almost no rainfall of the south of the country makes it more challenging to produce white wines…but not impossible. 
+Während der stachelige Vinho Verde wohl der berühmteste "Weißwein" aus dem Norden Portugals ist, macht das trockene Klima im Süden des Landes mit fast keinen Niederschlägen die Herstellung von Weißweinen schwieriger ... aber nicht unmöglich.
 
-All in all excelent reasons to dive into the "underground" world of portuguese whites.
+Alles in allem gute Gründe, in die "unterirdische" Welt der portugiesischen Weißen einzutauchen.
 
 # Tinto
  
-In Portugal, the most renowned and beloved wine regions of the country - Douro and Alentejo - are known for their very hot summers. 
+In Portugal sind die bekanntesten und beliebtesten Weinregionen des Landes - Douro und Alentejo - für ihre sehr heißen Sommer bekannt.
 
-This heat in the final months before the harvest are the ideal boost for those sugar levels inside the grape, producing na intense and full bodied final product of deep red, or should I say tinto, deliciousness.
+Diese Hitze in den letzten Monaten vor der Ernte ist der ideale Schub für den Zuckergehalt in der Traube und erzeugt ein intensives und vollmundiges Endprodukt von tiefroter, oder sollte ich sagen tinto, Köstlichkeit.
 
-Pour a glass of one of these wines and you will see the sinuous curves of the stunning Douro valley and the cork oak filled endless plains of Alentejo. Only 400 km distance from each other and such different stories to tell.
+Gießen Sie ein Glas eines dieser Weine ein und Sie werden die geschwungenen Kurven des atemberaubenden Douro-Tals und die mit Korkeichen gefüllten endlosen Ebenen des Alentejo sehen. Nur 400 km voneinander entfernt und so unterschiedliche Geschichten zu erzählen.
 
 

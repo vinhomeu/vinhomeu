@@ -5,12 +5,10 @@ draft: false
 title: "Convento da Vila Colheita"
 year: 2017
 percent: "13.5%"
-recommendation: "Drink at 15-17°C"
+recommendation: "Trinken bei 15-17°C"
 variety: Red
 featured: true
 image: "/images/wines/convento-da-vila-colheita-red.png"
 ---
 
-Syrah, Alicante Bouschet and Touriga Nacional: an eclectic blend of amazing grapes. 15 months from harvest to your glass. You will get a dark ruby red wine with intense mature red fruit fragrances, or should I say grapes that endured some of the highest temperatures of the country? Best enjoyed with red meat, fatty fisch and soft cheese. Don't forget to invite your friends!
-
-[Link](/region/portugal)
+Syrah, Alicante Bouschet und Touriga Nacional: eine vielseitige Mischung aus erstaunlichen Trauben. 15 Monate von der Ernte bis zum Glas. Sie erhalten einen dunklen rubinroten Wein mit intensiven Düften von reifen roten Früchten, oder sollte ich sagen Trauben, die einige der höchsten Temperaturen des Landes ausgehalten haben? Am besten zu rotem Fleisch, fettem Fisch und Weichkäse. Vergiss nicht, deine Freunde einzuladen!

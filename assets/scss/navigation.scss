@@ -4,7 +4,7 @@
     position: absolute;
     width: 100%;
     .language-selector{
-        color: var(--tertiary-color);
+        color: var(--primary-color);
     }
     
     ul{
@@ -12,7 +12,9 @@
         li{
             margin: 0.5em;
         }
-        a{
+        a, a:visited{
+            cursor: pointer;
+            color: var(--primary-color);
             text-decoration: none;
         }
     }
