@@ -10,6 +10,6 @@ image: ""
 tag: ["white"]
 ---
 
-Syrah, Alicante Bouschet and Touriga Nacional: an eclectic blend of amazing grapes. 15 months from harvest to your glass. You will get a dark ruby red wine with intense mature red fruit fragrances, or should I say grapes that endured some of the highest temperatures of the country? Best enjoyed with red meat, fatty fisch and soft cheese. Don't forget to invite your friends!
+Syrah, Alicante Bouschet und Touriga Nacional: eine eklektische Mischung aus erstaunlichen Reben. 15 Monate braucht es von der Ernte bis in dein Glas. Du bekommst einen dunklen, rubinroten Wein mit intensiven, reifen Aromen von roten Früchten, oder anders gesagt, von Trauben, die die südliche Hitze in sich tragen! Dieser Wein passt gut zu rotem Fleisch, fettem Fisch und Weichkäse und natürlich zu einem Abend mit Freunden. 
 
 [Link](/region/portugal)
